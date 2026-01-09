@@ -39,5 +39,5 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo hello_world.py
-          python hellow_world.py
+          python hello_world.py
 
